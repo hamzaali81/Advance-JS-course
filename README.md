@@ -2,6 +2,23 @@
 # Advance JS course
 
 Javascript References to helps students
+###### Class # 01 Topics
+* Javascript Engine
+* Javascript Runtime
+* Interpreter/Compiler/JIT Compiler
+* Writting Optimized Code
+* Call Stack + Memory Heap
+* Stack Overflow + Memory Leaks
+* Garbage Collection
+* Node JS 
+* Single Thread
+
+######  Class # 02
+* Execution Context 
+* Lexical Environment
+* Scope Chain
+* Function Invocation
+* Dynamic vs lexical Scope
 
 ## References
 https://github.com/learningall81/EX-MS11-Intermediate
