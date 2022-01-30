@@ -17,8 +17,13 @@ Javascript References to helps students
 * Execution Context 
 * Lexical Environment
 * Scope Chain
+* Hoisting
 * Function Invocation
+* Function scope vs Block Scope
 * Dynamic vs lexical Scope
+* this- call,apply,bind
+* IIFE
+* 
 
 ## References
 https://github.com/learningall81/EX-MS11-Intermediate
