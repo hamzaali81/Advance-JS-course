@@ -1,4 +1,15 @@
 Class 01: 
+overview:
+Javascript Engine
+Javascript Runtime
+Interpreter/ Compiler / JIT Compiler
+Writting Optimized Code
+Call Stack + Memory Heap
+Stack Overflow + Memory Leaks
+Garbage Collection
+Node.JS
+Single Threaded
+
 JS Foundation
 
 Javascript Engine:
