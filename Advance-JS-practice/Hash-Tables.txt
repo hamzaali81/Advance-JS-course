@@ -1,0 +1,58 @@
+Hash Tables:
+Objects are types of hash tables in js.
+e.g python dictonaries
+    JS Objects
+    Java maps
+    Ruby hashes
+
+What is hash function?
+
+A function a generate value of each fixed length.
+
+Idempotent:
+A function a generate value of each fixed length
+
+What actions perform?
+Actions:
+
+Insert O(1)---> Something in a memory space
+Lookup O(1) ---> Exact the same like access the memory
+Delete O(1) ---> Where the delete item
+Search O(1) ---> Find something .
+
+Hash Collision:
+In hash function randomly assign values and some time same memoy location that's called collision.
+
+In javascript _hash() this is private method es6 standard
+
+Hash Tables vs Arrays:
+
+Arrays        Hash Tables  
+search O(n)   search O(1)
+lookup O(1)   insert O(1)
+push*  O(1)   lookup O(1)
+Insert O(n)   delete O(1)
+
+
+Hash:
+Top of an arrays
+Use in DB like search.
+No concept of order
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

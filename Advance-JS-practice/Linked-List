@@ -1,0 +1,86 @@
+Linked-List:
+1. Singly  (One node one block) 
+2. Doubly  (One node Two blocks)
+
+What problem aof arrays ?
+1. Static fixed limit.
+2. Certain limit.
+
+Arrays performe bad performance specially performance.
+List then Link
+
+Why linked-List better than hash and arrays ?
+
+A linked list sort of loose structure that allows you to insert a value into the 
+middle of the list.
+
+The main difference between arrays and linked lists is that in an array
+an element or element are indexed.
+
+In linked add item in a traversal.
+The traversal is same as iteration that we did with as erase.
+e.g while loop.
+
+Most computer have cache system.
+Link list and nodes instead are actually scattered all over memory.
+
+traversal is quite a bit slower than iterating through items like an array
+even through they are technically both of an. 
+
+Hash Tables:
+Insert 
+
+
+Linked-List
+prepend O(1)  (begging)
+append O(1)    (last)
+lookup(traversal) O(n)     (Look item) 
+insert O(n)     (Insert item) worst case
+delete O(n)     worst case
+
+What is pointer ?
+Pointer is simpler reference to another place in memory.
+
+Doubly LinkedList:
+Doubly linked list is similar except thai it links to the node before it.
+They points both each other.
+
+One node two block
+e.g [1,2]
+
+head             Tail            Next 
+1                  2             Null
+Point tail        Points head
+
+
+Down side: hold more memory.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

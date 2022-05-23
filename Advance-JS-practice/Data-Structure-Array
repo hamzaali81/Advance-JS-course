@@ -1,0 +1,44 @@
+Data Structures:
+1. Arrays.  5. Trees
+2. Stacks.  6. Tries
+3. Queues.  7. Graphs
+4. Linked Lists  8. Hash Tables
+
+Algorithms:
+1. Sorting.
+2. Dynamic Programming.
+3. BFS + DFS (Searching)
+4. Recursion
+
+Arrays:
+Organizing items sequentially one after and memory.
+Least amount of rules.
+Store data one by one and smallest foot print in any data structure.
+
+
+Array Operation:
+lookup O(1)  // Access
+push O(1)   
+insert O(n) 
+delete O(n)
+
+Why use Array?
+Fast lookups        Slow inserts 
+Fast push/pop       Slow deletes
+Ordered             Fixed Size
+                     if using static array
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
